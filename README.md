@@ -4,16 +4,7 @@ This portfolio captures the work I completed for a course, **Intermediate Progra
 
 # What I hope to learn?
 
-From the course, Intermediate Programming with Python, I wish to learn how to run commonly used data mining methods in R, along with weighing their advantages & disadvantages by comparing their utility through various types of assignments below. In addition, I hope to use real-world datasets to navigate through various stages of model building such as feature selection, model evaluation and resampling to assess the performance & reliability of these methods.
-
-Learning Objectives: At the end of this course, each student will be able to:
-- write Python applications for data-analysis problems
-- understand the concepts and use the constructs of Python libraries, including numpy, pandas, 
-and the re (regular expression) package.
-- load, cleanse, and process data
-- use Web API's and/or web scraping to download data
-- create, load, and process data in a relational database
-- write object-oriented programs
+From the course, Intermediate Programming with Python, I wish to learn how to write Python applications for data analysis problems. Moreover, I wish to understand the concepts and use the constructs of Python libraries, including numpy, pandas, and the re (regular expression) package. In addition, I hope to acquire the skills needed to load, cleanse, and process data using Web API's, web scraping and/ or relational databases. Finally, I aim to familiarize myself with writing object-oriented programs.
 
 # Portfolio
 
