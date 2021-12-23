@@ -24,13 +24,18 @@ IV. Data Visualization and Object Oriented Programming: [Homework V](https://git
 
 # Final Project
 
-**Brief Description:** Detecting Network Intrusions - "There is a large and profitable bank in Saint Louis, Missouri. Like any large corporation, this bank has a very large and intricate infrastructure that supports its networking system. A Network Analyst recently discovered unusual network activity. Then, pouring over year’s worth of logs, their team of analysts discovered many instances of anomalous network activity that resulted in significant sums of money being siphoned from bank accounts.  The Chief Networking Officer has come to your group for help in developing a system that can automatically detect and warn of such known, as well as other unknown, anomalous network activities."
+**Brief Description:** The Symptom Checker ChatBot - The objective of our project is to create a program that functions like a chatbot and takes user
+input (based on symptoms) via a series of questions to:
 
-The following tasks were performed as part of this project: _differentiating between the labeled intrusions and benign sessions; identifying different types of intrusions; developing and implementing a systematic approach to detect instances of intrusions in log files; evaluating the detection power of the designed system; assessing the real-time use of the intrusion detector._
+i) Obtain a list of diseases from reliable/vetted online sources (use of maximum three web sources based on reliability) most commonly associated with the symptoms shared by the user.
 
-To view the different components of the project, please click on the hyperlinks for each part below:
+2) Allow the user to retrieve more information, such as causes, treatment, a list of over-the-counter medications to alleviate the symptoms, and nearby health facilities based on their location.
 
-* [Project Prompt]()
-* [Python Code]()
-* [Application User Instructions]()
-* [Final Presentation]()
+3) Provide a reference list of a panel of doctors or hospitals based on user’s location for further review by the user.
+
+To view the different components of the project, please click on the hyperlinks for each part below. Note that the funcionality of the code may require you to add your Google Maps API key instead of the one used here.
+
+* [Project Prompt](https://github.com/mhmirza/PythonProgramming/blob/main/Final%20Project/Prompt.pdf)
+* [Python Code](https://github.com/mhmirza/PythonProgramming/blob/main/Final%20Project/Source%20Code.py)
+* [Application User Instructions](https://github.com/mhmirza/PythonProgramming/blob/main/Final%20Project/Application%20User%20Instructions.docx)
+* [Final Presentation](https://github.com/mhmirza/PythonProgramming/blob/main/Final%20Project/Presentation.pptx)
