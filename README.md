@@ -30,8 +30,7 @@ The following tasks were performed as part of this project: _differentiating bet
 
 To view the different components of the project, please click on the hyperlinks for each part below:
 
-* [Project Description]()
-* [Data Description]()
-* [Network Activity Data]()
-* [R Code]() 
-* [HTML Report]()
+* [Project Prompt]()
+* [Python Code]()
+* [Application User Instructions]()
+* [Final Presentation]()
