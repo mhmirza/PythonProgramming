@@ -12,7 +12,7 @@ Here are the assignments that I completed during the course of this class.
 
 # Assignments
 
-To view the data, code and output files for each, please click on the hyperlinks for folders below. 
+To view the assignment prompt, data, code files for each, please click on the hyperlinks for folders below. 
 
 I. Data Analysis Using Pandas: [Homework II](https://github.com/mhmirza/PythonProgramming/tree/main/Homework%20II)
 
