@@ -1,6 +1,6 @@
 # PythonProgramming
 
-This portfolio captures the work I completed for a course, **Intermediate Programming with Python**, at Carnegie Mellon University in Fall 2020. To view my GitHub repository, please click [here](https://github.com/mhmirza/PythonProgramming). The work done here involves: gathering data from various sources including web scraping, web API, CSV and other structured data files, and databases; data cleansing; using the Pandas library for data analysis; regular expressions and other string processing methods; classes and object-oriented programming; and building real-world software applications.
+This portfolio captures the work I completed for a course, **Intermediate Programming with Python**, at Carnegie Mellon University in Fall 2020. The work done here involves: gathering data from various sources including web scraping, web API, CSV and other structured data files, and databases; data cleansing; using the Pandas library for data analysis; regular expressions and other string processing methods; classes and object-oriented programming; and building real-world software applications. To view my course repository on GitHub, please click [here](https://github.com/mhmirza/PythonProgramming).
 
 # What I hope to learn?
 
