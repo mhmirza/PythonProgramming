@@ -1,10 +1,19 @@
 # PythonProgramming
 
-This portfolio captures the work I completed for a course, **Data Mining**, at Carnegie Mellon University in Spring 2021. To view my GitHub repository, please click [here](https://github.com/mhmirza/PythonProgramming). The work done here involves discovering structure and making predictions in large, complex data sets. The tasks encompass learnings about many commonly used methods for predictive and descriptive analytics tasks, in addition to assessing the methods' predictive and practical utility.
+This portfolio captures the work I completed for a course, **Intermediate Programming with Python**, at Carnegie Mellon University in Fall 2020. To view my GitHub repository, please click [here](https://github.com/mhmirza/PythonProgramming). The work done here involves: gathering data from various sources including web scraping, web API, CSV and other structured data files, and databases; data cleansing; using the Pandas library for data analysis; regular expressions and other string processing methods; classes and object-oriented programming; and building real-world software applications.
 
 # What I hope to learn?
 
-From the course, Data Mining, I wish to learn how to run commonly used data mining methods in R, along with weighing their advantages & disadvantages by comparing their utility through various types of assignments below. In addition, I hope to use real-world datasets to navigate through various stages of model building such as feature selection, model evaluation and resampling to assess the performance & reliability of these methods.
+From the course, Intermediate Programming with Python, I wish to learn how to run commonly used data mining methods in R, along with weighing their advantages & disadvantages by comparing their utility through various types of assignments below. In addition, I hope to use real-world datasets to navigate through various stages of model building such as feature selection, model evaluation and resampling to assess the performance & reliability of these methods.
+
+Learning Objectives: At the end of this course, each student will be able to:
+- write Python applications for data-analysis problems
+- understand the concepts and use the constructs of Python libraries, including numpy, pandas, 
+and the re (regular expression) package.
+- load, cleanse, and process data
+- use Web API's and/or web scraping to download data
+- create, load, and process data in a relational database
+- write object-oriented programs
 
 # Portfolio
 
