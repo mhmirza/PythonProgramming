@@ -14,29 +14,9 @@ Here are the assignments that I completed during the course of this class.
 
 To view the data, code and output files for each, please click on the hyperlinks for folders below. 
 
-I. Data Analysis Using Pandas
+I. Data Analysis Using Pandas: [Homework II](https://github.com/mhmirza/PythonProgramming/tree/main/Homework%20II)
 
-[Homework II](https://github.com/mhmirza/PythonProgramming/tree/main/Homework%20II)
 
-II. [Assignment II]()
-
-* _Code to be updated._
-* Part 1: Placing knots, choosing degrees of freedom
-* Part 2: Cross-validation
-
-III. [Assignment III]()
-
-* Part 1: Variable selection
-* Part 2: Best subset selection
-* Part 3: Forward Stepwise Selection
-* Part 4: Lasso
-* Part 5: Instability of Logistic regression
-
-IV. [Assignment IV]()
-
-* Part 1: Classifier performance metrics
-* Part 2: Decision trees
-* Part 3: Random forests
 
 # Final Project
 
