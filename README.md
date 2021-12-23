@@ -24,8 +24,7 @@ IV. Data Visualization and Object Oriented Programming: [Homework V](https://git
 
 # Final Project
 
-**Brief Description:** The Symptom Checker ChatBot - The objective of our project is to create a program that functions like a chatbot and takes user
-input (based on symptoms) via a series of questions to:
+**Brief Description:** The Symptom Checker ChatBot - The objective of our project is to create a Python Application that functions like a chatbot and takes user input (based on symptoms) via a series of questions to:
 
 1) Obtain a list of diseases from reliable/vetted online sources (use of maximum three web sources based on reliability) most commonly associated with the symptoms shared by the user.
 
