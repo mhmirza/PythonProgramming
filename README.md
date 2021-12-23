@@ -16,7 +16,9 @@ To view the data, code and output files for each, please click on the hyperlinks
 
 I. Data Analysis Using Pandas: [Homework II](https://github.com/mhmirza/PythonProgramming/tree/main/Homework%20II)
 
-II. Data Processing Using SQLite: [Homework III](https://github.com/mhmirza/PythonProgramming/tree/main/Homework%20II)
+II. Data Processing Using SQLite: [Homework III](https://github.com/mhmirza/PythonProgramming/tree/main/Homework%20III)
+
+III. Regular Expressions and Web API's: [Homework IV](https://github.com/mhmirza/PythonProgramming/tree/main/Homework%20IV)
 
 # Final Project
 
