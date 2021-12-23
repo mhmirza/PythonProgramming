@@ -14,12 +14,9 @@ Here are the assignments that I completed during the course of this class.
 
 To view the data, code and output files for each, please click on the hyperlinks for folders below. 
 
-I. [Assignment I]()
+I. Data Analysis Using Pandas
 
-* Part 1: Qualitative predictors
-* Part 2: Multiple linear regression
-* Part 3: Dealing with collinearity
-* Part 4: Exploring non-linearities
+[Homework II](https://github.com/mhmirza/PythonProgramming/tree/main/Homework%20II)
 
 II. [Assignment II]()
 
