@@ -34,7 +34,7 @@ IV. Data Visualization and Object Oriented Programming: [Homework V](https://git
 
 3) Provide a reference list of a panel of doctors or hospitals based on user’s location for further review by the user.
 
-To view the different components of the project, please click on the hyperlinks for each part below. Note that the funcionality of the code may require you to add your Google Maps API key instead of the one used here.
+To view the different components of the project, please click on the hyperlinks for each part below. Note that the functionality of the code may require you to add your Google Maps API key instead of the one used here.
 
 * [Project Prompt](https://github.com/mhmirza/PythonProgramming/blob/main/Final%20Project/Prompt.pdf)
 * [Python Code](https://github.com/mhmirza/PythonProgramming/blob/main/Final%20Project/Source%20Code.py)
