@@ -4,9 +4,9 @@
 
 This portfolio captures the work I completed for a course, **Intermediate Programming with Python**, at Carnegie Mellon University in Fall 2020. The work done here involves: gathering data from various sources including web scraping, web API, CSV and other structured data files, and databases; data cleansing; using the Pandas library for data analysis; regular expressions and other string processing methods; classes and object-oriented programming; and building real-world software applications. To view my course repository on GitHub, please click [here](https://github.com/mhmirza/PythonProgramming).
 
-# What I hope to learn?
+# Key Learnings
 
-From the course, Intermediate Programming with Python, I wish to learn how to write Python applications for data analysis problems. Moreover, I wish to understand the concepts and use the constructs of Python libraries, including numpy, pandas, and the re (regular expression) package. In addition, I hope to acquire the skills needed to load, cleanse, and process data using Web API's, web scraping and/ or relational databases. Finally, I aim to familiarize myself with writing object-oriented programs.
+From the course, Intermediate Programming with Python, I learnt how to write Python applications for data analysis problems. I gained an understanding of the concepts and use the constructs of Python libraries, including Numpy, Pandas, Matplotlib, Seaborn, Regex etc. In addition to this, I acquired the skills needed to load, cleanse, and process data using Web API's, web scraping and/ or relational databases. Finally, I was able to familiarize myself with writing object-oriented programs.
 
 # Portfolio
 
